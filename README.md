@@ -11,7 +11,7 @@
 
 💻 ME APASIONA LA TECNOLOGÍA Y LA INFORMÁTICA, UNO DE MIS MAYORES HOOBIES ES EL ARMADO Y EQUIPO DE COMPUTO 
 
-📝 ME HE DESEMPEÑADO AL MENOS 6 MESES COMO DESARROLLADOR FRONT-END, BACK-END Y FULL STACK, AUNQUE MI PASIÓN ES EL FRONT-END
+📝 ME HE DESEMPEÑADO AL MENOS 6 MESES COMO DESARROLLADOR FRONT, BACK Y FULL STACK, AUNQUE MI PASIÓN ES EL FRONT-END
 
 👀 CONTACTAME: **IAmLaloCG@gmail.com**
 </p>
@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,atom,bootstrap,c,cs,cpp,css,dotnet,figma,firebase,flask,gamemakerstudio,git,github,gitlab,html,ai,java,js,laravel,linkedin,mongodb,mysql,nodejs,notion,npm,ps,php,pinia,postman,py,sass,sublime,sequelize,ts,ubuntu,visualstudio,vite,vscode,vue&perline=12" />
+    <img src="https://skillicons.dev/icons?i=arduino,atom,bootstrap,c,cs,cpp,css,dotnet,figma,firebase,flask,gamemakerstudio,git,github,gitlab,html,ai,java,js,laravel,linkedin,mongodb,mysql,nodejs,notion,npm,ps,php,pinia,postman,py,sass,sublime,sequelize,ts,ubuntu,visualstudio,vite,vscode,vue&perline=16" />
   </a>
 </p>
 
@@ -32,12 +32,12 @@
 <br>
 <br>
 
-<h2> GitHub ✨</h2>
+<h2>✨ GitHub </h2>
 <p align="center">
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LaloG19&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
@@ -47,9 +47,4 @@
   </td>
 </tr>
 </table>
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 </p>
